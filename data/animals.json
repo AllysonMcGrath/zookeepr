@@ -145,6 +145,15 @@
         "hungry"
       ],
       "id": "14"
+    },
+    {
+      "name": "Twiggy",
+      "species": "Dog",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "zany"
+      ],
+      "id": "15"
     }
   ]
 }

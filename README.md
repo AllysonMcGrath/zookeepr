@@ -8,7 +8,7 @@ The purpose of this project was to create a website for a zoo. The website allow
 
 To install this project, you can clone the repository by using the command prompt
 
-$ git clone https://github.com/AllysonMcGrath/taskmaster-pro.git
+$ git clone https://github.com/AllysonMcGrath/zookeepr.git
 
 Detailed instructions for cloning GitHub repositories can be found [here.](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository-from-github/cloning-a-repository)
 

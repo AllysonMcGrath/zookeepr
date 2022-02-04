@@ -2,7 +2,7 @@
 
 ## Description
 
-The purpose of this project was to create a website to create and store tasks. The site allows the user to create a task with a name and due date. The tasks can also be sorted into the categories of 'To Do', 'In Progress', and 'Complete.' Users can edit and delete tasks as needed. Tasks are added to local storage so that data persists for the user.
+The purpose of this project was to create a website for a zoo. The website allows users to view infomation about animals and zookeepers. Users can search for animals and zookeepers using various criteria (name, age, personality traits, etc). Users can also add animals and zookeepers to the database. The project uses express.js to access API routes for users to get and post information.
 
 ## Installation
 
@@ -16,11 +16,11 @@ Detailed instructions for cloning GitHub repositories can be found [here.](https
 
 ## Usage
 
-You can see the deployed site [here](https://allysonmcgrath.github.io/taskmaster-pro/).
+You can see the deployed site [here](https://mcgrath-zookeepr.herokuapp.com/).
 
 When displaying correctly, the website should look like this:
 
-![Site with columns to sort tasks](taskmasterprosite.JPG)
+![Site with options to view animals, view zookeepers, or add an animal](zookeeprsite.JPG)
 
 
 Use standard git commands within this repository.
